@@ -9,6 +9,7 @@ This repository contains uploaded **ultimate intrinsic SNR (uiSNR)** maps genera
 
 - EM bases simulations were conducted according to Guerin B, Villena JF, Polimeridis AG, et al. The ultimate signal-to-noise ratio in realistic body models. Magnetic Resonance in Medicine. Nov 2017;78(5):1969-1980. doi:10.1002/mrm.26564
 - uiSNR maps were calculated with 3000 random EM bases as: $B_0^2 \sqrt{B_1^{-H} (\mathbf{r}) \Psi^{-1} B_1^- (\mathbf{r})}$ (Coefficients were omitted)
+- The maps in the folders are of the term $\sqrt{B_1^{-H} (\mathbf{r}) \Psi^{-1} B_1^- (\mathbf{r})}$ 
 
 ## Contact
 
