@@ -14,9 +14,13 @@ This repository contains uploaded **ultimate intrinsic SNR (uiSNR)** maps genera
 
 ## References
 [1] https://itis.swiss/virtual-population/virtual-population/overview/
+
 [2] Christ A, Kainz W, Hahn EG, et al. The Virtual Family-development of surface-based anatomical models of two adults and two children for dosimetric simulations. Phys Med Biol. Jan 21 2010;55(2):N23-N38. doi:10.1088/0031-9155/55/2/N01
+
 [3] Gosselin MC, Neufeld E, Moser H, et al. Development of a new generation of high-resolution anatomical models for medical device evaluation: the Virtual Population 3.0. Phys Med Biol. Sep 21 2014;59(18):5287-5303. doi:10.1088/0031-9155/59/18/5287
+
 [4] Hasgall PA, F. Di Gennaro, C. Baumgartner, E. Neufeld, B. Lloyd, M. C. Gosselin, D. Payne, A. Klingenböck, N. Kuster. IT’IS Database for Thermal and Electromagnetic Parameters of Biological Tissues. doi:10.13099/VIP21000-04-1 Accessed 22 Feb 2022. https://itis.swiss/virtual-population/tissue-properties/database/dielectric-properties
+
 [5] Guerin B, Villena JF, Polimeridis AG, et al. The ultimate signal-to-noise ratio in realistic body models. Magnetic Resonance in Medicine. Nov 2017;78(5):1969-1980. doi:10.1002/mrm.26564
 
 ## Contact
